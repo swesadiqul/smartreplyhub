@@ -1,0 +1,9 @@
+Project Name: smartreplyhub
+
+Apps Name:
+	1. users	Handle user registration, login/logout, user settings.
+	2. social_auth	Manage the connection of user accounts with social logins (OAuth).
+	3. social_media	Handle incoming/outgoing messages with platforms like Facebook Messenger, WhatsApp, or Telegram.
+	4. gpt_ai	Interface with the GPT model (OpenAI API).
+	5. dashboard	Handle user analytics and user UI for enabling/disabling settings.
+	6. admin_panel	Admin functionality like monitoring usage statistics, managing platform health, and moderation.
